@@ -1,0 +1,2 @@
+# ADI-Company
+ Projecto inicial
